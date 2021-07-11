@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626013573594' stop='1626013587300'>
+    <name>demo calculator </name>
+    <title>demo calculator </title>
+    <test-cases>
+        <test-case start='1626013573595' status='passed' stop='1626013576742'>
+            <name>addition tests</name>
+            <title>addition tests</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626013576742' status='passed' stop='1626013579333'>
+            <name>subtractio</name>
+            <title>subtractio</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626013579333' status='passed' stop='1626013581841'>
+            <name>division</name>
+            <title>division</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626013581841' status='passed' stop='1626013584242'>
+            <name>Multiplication</name>
+            <title>Multiplication</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626013584242' status='passed' stop='1626013586742'>
+            <name>Moduleus% reminder</name>
+            <title>Moduleus% reminder</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626013586742' status='passed' stop='1626013587299'>
+            <name>finaladdition</name>
+            <title>finaladdition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
